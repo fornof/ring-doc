@@ -1,3 +1,6 @@
+# for quick reading / processing , use dasel : https://github.com/TomWright/dasel
+#  For titles : use command : dasel select -f RingInfo.toml -p toml -m "section[*].title" 
+# For text : use command : 
 title = "Ring info" 
 [[section]]
 title = "Ring Size"
@@ -6,7 +9,7 @@ Rings are measured by their inner circumference by millimeters. Size 0 is a circ
 Todo: place chart here 
 """
 [[section]]
-title = "materials"
+title = "Materials"
 [[section.subsection]]
 title = "Gold"
 text ="""
