@@ -1,0 +1,134 @@
+title = "Ring info" 
+[[section]]
+title = "Ring Size"
+text="""
+Rings are measured by their inner circumference by millimeters. Size 0 is a circumference of 36.5 mm, every full size up is an additional 2.55mm. Size 1: 39.1 mm, Size 2: 41.7, Size 3: 44.2, etc. I suggest using a conversion chart from inner circumference to American ring size for best standard accuracy. 
+Todo: place chart here 
+"""
+[[section]]
+title = "materials"
+[[section.subsection]]
+title = "Gold"
+text ="""
+Gold is the most common material and most easily workable, over time gold "shreds" away, meaning that when a harder surface grazes across a gold surface it loses micro amounts of itself. Over time this causes prongs holding in the stones and the bottom of the ring to thin and need either more gold soldered on the surface or a replacement of the shank, or a whole new prong setting depending the situation. Gold comes four common alloy percentiles: 24K, 18K, 14K, 10K. The karat rating is how much alloy to gold ratio is in the material. 24K is 99.99% gold, 18K is 75% gold, 14K is 58.5% gold, and 10K is 41.6% gold.(TODO: put in table on this/ graph) The alloys used in the gold depends on its color. 
+
+Yellow gold contains copper, zinc, and silver. 
+White gold contains nickel, copper, zinc, and silver. 
+Rose gold contains copper and silver. 
+Depending where you source the material changes the percentiles of the alloys to each other in the material, but legally to be called 14K or 18K or etc. it must be that percentile of gold. The more alloy in the material the strong to wear the ring is, so 10k is technically strongest, however most countries in the world consider 10k gold to not be genuine gold and cannot be marketed as gold. 14k is more gold than alloy, and that it is stronger than 18k. 18k will have a much more gold luster to it, but at the same time it wears faster than 14k. White gold is electrically plated with the metal rhodium, the sister metal to platinum, to achieve the silver look, over 2-6 years the rhodium wears away and the white gold looks faintly yellow. It is a rather simple process to reapply the rhodium.
+"""
+[[section.subsection]]
+title = "Platinum"
+text ="""
+ many artisians say platinum is stronger than gold, which is conditionally true. Pure platinum is stronger than pure gold, but compared to 18k, 14k, and 10k gold, platinum is weaker. The benefits of platinum are that it is hypoallergenic for the rare case of someone being allergic to gold or its alloys, that it stays silver forever since that is its natural color, and it has a heavier feel to it. Platinum comes in two common percentiles for jewelry: PLAT950 and PLAT900. PLAT950 is 95% platinum and 5% ruthenium, PLAT 900 is 90% platinum and 10% iridium. Platinum does not wear like gold; it is more like a liquid metal in a way. Essentially, when something scratches a platinum ring, instead of "shredding" away, it moves to the side like water. So, platinum jewelry does not lose its mass generally, but it is more easily bent and malformed. Platinum is usually not recommended for holding in small stones since the prongs made of platinum are more easily to be bent. Platinum is rather hard to work with because it needs to be heated to a far higher temperature to modify the ring.
+ """
+[[section.subsection]]
+title = "Platinum"
+text ="""
+Silver a.k.a. Sterling Silver: Silver is used very commonly for jewelry because it is easy to work on and is incredibly affordable. Silver is marked in a ring by ".925" that refers to the alloy of Sterling Silver which is 92.5% silver and 7.5% alloy, most commonly nickel. More people have allergies to silver since it is a harsher metal to the skin. Silver is more brittle than gold or platinum. Recommend to not use silver for engagement rings since a silver ring is more likely to break at point of pressure, usually on the shank. Silver gains tarnish over time which causes it to look foggy, black, pink, or a variety of other colors depending on the alloy. Aesthetically and durability wise, silver is lacking to gold or platinum. It is fairly easy to manipulate and alter like gold.
+"""
+[[section.subsection]]
+title = "Other Metals"
+text ="""
+There are other metals out there, many are not alterable by simple means like Titanium, Zirconium, Cobalt, Steel, Tungsten, Meteorite, etc.
+There is Palladium which is like platinum in color, it is rarer and more difficult to work on so most standard jewelers do not use it. Palladium comes in 95% palladium to 5% alloy ratio. It is also hypoallergenic as well.
+Tantalum which is a naturally black/gray precious metal. It is alterable like gold and platinum. Black and grey in color, it is maliable unlike cobalt and titanium. It is rare, so not likely to be a cheap metal, but it is workable.
+
+"""
+[[section]]
+title = "Ring Structure Vocabulary"
+[[section.subsection]]
+title = "Head"
+text ="""
+The head, sometimes referred to as the crown, is the prong setting that the center stone is set into. The head is removable from the ring using a special mix of alloys. In our gold rings, both the head and the ring are 14k gold, but the alloys in the head are slightly different so that the melting point of the head is lower so that way it can be heated up and the peg of the head pulled out of the ring without the ring melting. The standard head is made of white gold, due to more strength than yellow gold and especially rose gold due to the nickel. As an artistic detail, the neutral silver color of the head allows the stone to keep true color.
+"""
+[[section.subsection]]
+title = "Bridge"
+text ="""
+The bridge of the ring is the top part of the ring; it is where the head connects to the ring and is above the shank. The bridge usually includes the details on the ring like the stones on the top or side. 
+"""
+[[section.subsection]]
+title = "Shank"
+text ="""
+The shank is generally the rest of the ring, but most commonly referring to the bottom half of a ring. When a ring gets re-shanked the jeweler cuts off the bottom half of the ring and adds new stock of whatever material the ring is and solders it together.
+"""
+[[section]]
+title = "Optional Design"
+text = "The following terms are more optional design terms and rings "
+[[section.subsection]]
+title = "Halo"
+text ="""
+A halo is a structure that surrounds the center stone, whether that is plain metal or a row of stones, it accents the center stone. Often time its purpose is to give the illusion that the center stone is bigger and to add more sparkle to the ring. The center stone can be mounted right into the halo making it flush or mounted in a head allowing the stone to be separated from the halo adding definition.
+"""
+[[section.subsection]]
+title = "Filigreen"
+text ="""
+Lace-like metal structuring in a ring, mostly used in vintage designs. Similar to cross pattern design on the Eifel tower but in the ring.
+"""
+[[section.subsection]]
+title = "Millgrain"
+text ="""
+Small little metal dots that line some part of the ring, again often used in vintage designs. Over time millgrain often wears away and requires hand setting them back in by hand unless you to recast the whole entire ring. 
+"""
+[[section.subsection]]
+title = "Scrolling"
+text ="""
+similar to filigree, the difference is that these are curved little "s" or arches in the side of the ring or bridge to create detail in the design.
+"""
+[[section.subsection]]
+title = "Cathedral"
+text ="""
+Cathedral is when the metal of the ring extends from the shank to nearly touching the center stone. Its purpose is to both present the center stone to feel like it is raising up higher than actual height.The cathedral also protects the stone from the side. Cathedral is a common artistic preference.
+"""
+[[section.subsection]]
+title = "Split Shank"
+text ="""
+This is a term for when the ring's shank/bridge splits into a fork like structure and meets at the center focal point."""
+[[section.subsection]]
+title = "Three Stone"
+text ="""
+A three stone ring is any ring that features a center stone and two matched stones (to each other) on the side. Some three stone rings have all three matched to same size and shape, but most have the center stone different than the two matched side ones.
+"""
+[[section.subsection]]
+title = "Cluster"
+text ="""
+Clusters are shaped halo-pave hybrids made to look like a larger stone from far away when up close it is actually a combination of many smaller stones.
+"""
+[[section]]
+title= "Setting Styles"
+text ="The next set of terms are different types of setting styles for stones."
+[[section.subsection]]
+title = "Prong Setting" 
+text="""
+Prong is the most common setting. A prong setting is made up of a head or basket with three or more prongs. The prongs hold the stone in above the surface of the ring. Most commonly this is a 4-prong head. 
+"""
+[[section.subsection]]
+title = "Channel Setting" 
+text="""
+The stones are set into a grooved channel inside a portion of the ring, it is the most protected style and the least likely to lose stones. According to artisians, this is the second most popular type of setting for stones. 
+"""
+[[section.subsection]]
+title = "Tension Setting" 
+text="""
+This is the most modern and sleek setting style, but at the same time the most prone to losing the stone that it holds and most prone to troubles. This is when two portions of the ring hold in a stone using a half channel simply by the tension of the two portions pressing against the stone in the middle. 
+"""
+[[section.subsection]]
+title = "Bar Setting" 
+text="""
+This is similar to tension and channel set but a slightly more secure, usually for side stones only. It is where a half channel on each side of the stone holds the stone, the main difference with this setting and tension is since it is casted in its length instead of pressed together to hold the stone it is more secure than tension. 
+"""
+[[section.subsection]]
+title = "Pave" 
+text="""
+Pave is the most common side stone setting. Side stones are set in very close proximity to each other using four small prongs holding each, most the time the prongs in-between two stones come off the same base. A subsidiary to pave is micro-pave, where incredibly small side stones are packed into a surface of the piece in close proximity. The prongs for these are incredibly small and this style of setting is notorious for losing stones. 
+"""
+[[section.subsection]]
+title = "Bezel" 
+text="""
+A stone is set into the ring by being set in a mold of the shape and size so the entire stone except for the top is covered by the material. Usually this is the one of the more safer setting styles at the cost of less sparkle since less light is able to enter the stone. 
+"""
+[[section.subsection]]
+title = "Flush" 
+text="""
+Flush setting is where a stone is mounted into the ring where the surface of the top of the stone is completely flush with the ring, this is usually exclusively used for side stones.
+"""
